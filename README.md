@@ -6,4 +6,4 @@ Assignment2 紀錄「計算機程式與應用」這門課的每週練習，銜�
 相比於Assgnment1，我認為這學期實作方面的練習比較少，再加上這學期的課不像計算機概論一樣有Final Project，因此又少了一個練習的機會。所以在學期結束後，我自己寫了一個五子棋的小程式作為練習。
 
 ## See also
-gomoku
+[Gomoku](https://github.com/Guan-Yu-Chen/Practice?tab=readme-ov-file#%E4%BA%94%E5%AD%90%E6%A3%8B)
